@@ -5,20 +5,47 @@ INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter
 INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/android/app/src/main/AndroidManifest.xml:1:1-48:12
 INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/android/app/src/main/AndroidManifest.xml:1:1-48:12
 MERGED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/android/app/src/main/AndroidManifest.xml:1:1-48:12
+MERGED from [:firebase_crashlytics] /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/build/firebase_crashlytics/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
 MERGED from [:sqflite] /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/0986d0d74b8a2c7da8161f6370fc7744/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/615cab8ad6393a9c868d48761bbea666/activity-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/28d99d5113324aa067757f8ca41a426f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/e1bbce6b0d79e8479b70e7bd729bb743/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ef0bef029ab70f5fb29de019060cf5fd/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/49ede1f7b9aa322a43288e9745adc2db/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/54d8b8735f730e83f07925f758092af3/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/23edc849475fdda61367cb003f9b9f93/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/79f9d65ef8b1c716310f666473a689a7/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/077300052aa327ee6fc9bbb0ce309b24/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3a7eb299570065a3866b140e1a95969b/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/b80fad55c42c418cc210e235056767fb/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/f611e6ece38573b6467baeec825734f3/firebase-analytics-19.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-crashlytics:18.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/10df8e74eb78dba65a82337fe2b6b889/firebase-crashlytics-18.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/423e6b8343165910beff1fe0be3523d1/play-services-measurement-api-19.0.0/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/95eb18f2f92a7d2acd7d3b25a5800511/firebase-installations-17.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/b1e5608fa8ecf099deeb8aaec999b721/jetified-firebase-common-20.0.0/AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/1aae12cd4cec03ce25e8a6274c288a00/play-services-measurement-sdk-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/078d4ac7df11773ae038547b9ed1db7d/firebase-installations-interop-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3c0f3b35a81081b4136f89618468a85d/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/fed5de9c1e4990c9dec1926065904c40/play-services-measurement-impl-19.0.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/43f569873471e8aaffba83f018899dfc/play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/6d417180995518df6d68ff5460ef63bf/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/67961f94a0e72abc419b2cf4accf08c3/play-services-measurement-base-19.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/190631b23612fcc7338b1f3f68d8d98a/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/5a76fe6b87136742dbc63c15269a75d3/firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/884479f2df92b2f20ec43eedf656c512/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/03bace4c0d24bfa7b06bd3c02ad72f5a/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/1e4bd5b238895ac0c4de4b26f01ad915/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/fe7211715f5f10b0ec666c4ac4034347/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/97e841c181c0e5d6407376a11fb83483/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/a929a3a28cf6f64b28357f2f0c838f8a/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/f6e69c74c246d7b76b435426b724eb59/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/f2505708e4d4403d1b55ba1b71b5773d/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/c01543009459461fb6e2bf78b683a4db/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/f80b4a2311fbd3a7db9117db98574c12/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/7525e861a1b8c3cfe5c5346801601ef2/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/1f6bdf9ac475c0b1602b346c9389b2bb/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3cd3bba90e304d9bdb274cd3384df72e/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ee946e0676edb52070760a94c2d57dbd/jetified-transport-runtime-3.0.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/a3a475648f2c6aa8a4bcbec79f2bf7b5/jetified-transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/cee0cd47b66d0aadc73e075a7c66e46e/jetified-firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/a9846f9acdf5e0419947b96f1352cad1/firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/e08692929dd8e27799529af7be8c1726/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/6263fed854d40ee3b60a4b72ef7b866c/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/b54e440b4893718a87ce7fd683631660/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/24a0f4a0f4d64ce4f984af2a90d3f2c3/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/d578396885e7d4748eda6b68851af03b/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/65ffdc26dcd352611a51a1f7b8f4f521/print-1.0.0/AndroidManifest.xml:17:1-22:12
 INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/android/app/src/debug/AndroidManifest.xml:1:1-7:12
@@ -38,12 +65,48 @@ INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter
 		ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/android/app/src/main/AndroidManifest.xml:1:11-69
 application
 ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/android/app/src/main/AndroidManifest.xml:8:5-47:19
-MERGED from [androidx.core:core:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3a7eb299570065a3866b140e1a95969b/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3a7eb299570065a3866b140e1a95969b/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [:firebase_crashlytics] /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/build/firebase_crashlytics/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_crashlytics] /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/build/firebase_crashlytics/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/f611e6ece38573b6467baeec825734f3/firebase-analytics-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/f611e6ece38573b6467baeec825734f3/firebase-analytics-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-crashlytics:18.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/10df8e74eb78dba65a82337fe2b6b889/firebase-crashlytics-18.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/10df8e74eb78dba65a82337fe2b6b889/firebase-crashlytics-18.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/423e6b8343165910beff1fe0be3523d1/play-services-measurement-api-19.0.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/423e6b8343165910beff1fe0be3523d1/play-services-measurement-api-19.0.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/95eb18f2f92a7d2acd7d3b25a5800511/firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/95eb18f2f92a7d2acd7d3b25a5800511/firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/b1e5608fa8ecf099deeb8aaec999b721/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/b1e5608fa8ecf099deeb8aaec999b721/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/1aae12cd4cec03ce25e8a6274c288a00/play-services-measurement-sdk-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/1aae12cd4cec03ce25e8a6274c288a00/play-services-measurement-sdk-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3c0f3b35a81081b4136f89618468a85d/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3c0f3b35a81081b4136f89618468a85d/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/fed5de9c1e4990c9dec1926065904c40/play-services-measurement-impl-19.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/fed5de9c1e4990c9dec1926065904c40/play-services-measurement-impl-19.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/43f569873471e8aaffba83f018899dfc/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/43f569873471e8aaffba83f018899dfc/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/67961f94a0e72abc419b2cf4accf08c3/play-services-measurement-base-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/67961f94a0e72abc419b2cf4accf08c3/play-services-measurement-base-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/190631b23612fcc7338b1f3f68d8d98a/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/190631b23612fcc7338b1f3f68d8d98a/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/5a76fe6b87136742dbc63c15269a75d3/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/5a76fe6b87136742dbc63c15269a75d3/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/884479f2df92b2f20ec43eedf656c512/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/884479f2df92b2f20ec43eedf656c512/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/f2505708e4d4403d1b55ba1b71b5773d/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/f2505708e4d4403d1b55ba1b71b5773d/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3cd3bba90e304d9bdb274cd3384df72e/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3cd3bba90e304d9bdb274cd3384df72e/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ee946e0676edb52070760a94c2d57dbd/jetified-transport-runtime-3.0.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ee946e0676edb52070760a94c2d57dbd/jetified-transport-runtime-3.0.0/AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/6263fed854d40ee3b60a4b72ef7b866c/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/6263fed854d40ee3b60a4b72ef7b866c/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/f2505708e4d4403d1b55ba1b71b5773d/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:label
 		ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/android/app/src/main/AndroidManifest.xml:10:9-42
 	android:icon
@@ -98,34 +161,88 @@ uses-sdk
 INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/android/app/src/main/AndroidManifest.xml
+MERGED from [:firebase_crashlytics] /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/build/firebase_crashlytics/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_crashlytics] /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/build/firebase_crashlytics/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:sqflite] /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:sqflite] /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/0986d0d74b8a2c7da8161f6370fc7744/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/0986d0d74b8a2c7da8161f6370fc7744/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/615cab8ad6393a9c868d48761bbea666/activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/615cab8ad6393a9c868d48761bbea666/activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/28d99d5113324aa067757f8ca41a426f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/28d99d5113324aa067757f8ca41a426f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/e1bbce6b0d79e8479b70e7bd729bb743/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/e1bbce6b0d79e8479b70e7bd729bb743/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ef0bef029ab70f5fb29de019060cf5fd/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ef0bef029ab70f5fb29de019060cf5fd/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/49ede1f7b9aa322a43288e9745adc2db/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/49ede1f7b9aa322a43288e9745adc2db/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/54d8b8735f730e83f07925f758092af3/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/54d8b8735f730e83f07925f758092af3/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/23edc849475fdda61367cb003f9b9f93/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/23edc849475fdda61367cb003f9b9f93/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/79f9d65ef8b1c716310f666473a689a7/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/79f9d65ef8b1c716310f666473a689a7/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/077300052aa327ee6fc9bbb0ce309b24/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/077300052aa327ee6fc9bbb0ce309b24/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3a7eb299570065a3866b140e1a95969b/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3a7eb299570065a3866b140e1a95969b/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/b80fad55c42c418cc210e235056767fb/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/b80fad55c42c418cc210e235056767fb/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/f611e6ece38573b6467baeec825734f3/firebase-analytics-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/f611e6ece38573b6467baeec825734f3/firebase-analytics-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-crashlytics:18.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/10df8e74eb78dba65a82337fe2b6b889/firebase-crashlytics-18.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-crashlytics:18.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/10df8e74eb78dba65a82337fe2b6b889/firebase-crashlytics-18.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/423e6b8343165910beff1fe0be3523d1/play-services-measurement-api-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/423e6b8343165910beff1fe0be3523d1/play-services-measurement-api-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/95eb18f2f92a7d2acd7d3b25a5800511/firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/95eb18f2f92a7d2acd7d3b25a5800511/firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/b1e5608fa8ecf099deeb8aaec999b721/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/b1e5608fa8ecf099deeb8aaec999b721/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/1aae12cd4cec03ce25e8a6274c288a00/play-services-measurement-sdk-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/1aae12cd4cec03ce25e8a6274c288a00/play-services-measurement-sdk-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/078d4ac7df11773ae038547b9ed1db7d/firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/078d4ac7df11773ae038547b9ed1db7d/firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3c0f3b35a81081b4136f89618468a85d/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3c0f3b35a81081b4136f89618468a85d/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/fed5de9c1e4990c9dec1926065904c40/play-services-measurement-impl-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/fed5de9c1e4990c9dec1926065904c40/play-services-measurement-impl-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/43f569873471e8aaffba83f018899dfc/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/43f569873471e8aaffba83f018899dfc/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/6d417180995518df6d68ff5460ef63bf/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/6d417180995518df6d68ff5460ef63bf/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/67961f94a0e72abc419b2cf4accf08c3/play-services-measurement-base-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/67961f94a0e72abc419b2cf4accf08c3/play-services-measurement-base-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/190631b23612fcc7338b1f3f68d8d98a/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/190631b23612fcc7338b1f3f68d8d98a/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/5a76fe6b87136742dbc63c15269a75d3/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/5a76fe6b87136742dbc63c15269a75d3/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/884479f2df92b2f20ec43eedf656c512/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/884479f2df92b2f20ec43eedf656c512/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/03bace4c0d24bfa7b06bd3c02ad72f5a/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/03bace4c0d24bfa7b06bd3c02ad72f5a/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/1e4bd5b238895ac0c4de4b26f01ad915/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/1e4bd5b238895ac0c4de4b26f01ad915/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/fe7211715f5f10b0ec666c4ac4034347/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/fe7211715f5f10b0ec666c4ac4034347/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/97e841c181c0e5d6407376a11fb83483/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/97e841c181c0e5d6407376a11fb83483/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/a929a3a28cf6f64b28357f2f0c838f8a/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/a929a3a28cf6f64b28357f2f0c838f8a/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/f6e69c74c246d7b76b435426b724eb59/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/f6e69c74c246d7b76b435426b724eb59/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/f2505708e4d4403d1b55ba1b71b5773d/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/f2505708e4d4403d1b55ba1b71b5773d/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/c01543009459461fb6e2bf78b683a4db/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/c01543009459461fb6e2bf78b683a4db/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/f80b4a2311fbd3a7db9117db98574c12/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/f80b4a2311fbd3a7db9117db98574c12/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/7525e861a1b8c3cfe5c5346801601ef2/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/7525e861a1b8c3cfe5c5346801601ef2/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/1f6bdf9ac475c0b1602b346c9389b2bb/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/1f6bdf9ac475c0b1602b346c9389b2bb/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3cd3bba90e304d9bdb274cd3384df72e/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3cd3bba90e304d9bdb274cd3384df72e/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ee946e0676edb52070760a94c2d57dbd/jetified-transport-runtime-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ee946e0676edb52070760a94c2d57dbd/jetified-transport-runtime-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/a3a475648f2c6aa8a4bcbec79f2bf7b5/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/a3a475648f2c6aa8a4bcbec79f2bf7b5/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/cee0cd47b66d0aadc73e075a7c66e46e/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/cee0cd47b66d0aadc73e075a7c66e46e/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/a9846f9acdf5e0419947b96f1352cad1/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/a9846f9acdf5e0419947b96f1352cad1/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/e08692929dd8e27799529af7be8c1726/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/e08692929dd8e27799529af7be8c1726/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/6263fed854d40ee3b60a4b72ef7b866c/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/6263fed854d40ee3b60a4b72ef7b866c/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/b54e440b4893718a87ce7fd683631660/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/b54e440b4893718a87ce7fd683631660/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/24a0f4a0f4d64ce4f984af2a90d3f2c3/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/24a0f4a0f4d64ce4f984af2a90d3f2c3/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/d578396885e7d4748eda6b68851af03b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/d578396885e7d4748eda6b68851af03b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/65ffdc26dcd352611a51a1f7b8f4f521/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/65ffdc26dcd352611a51a1f7b8f4f521/print-1.0.0/AndroidManifest.xml:20:5-44
 INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/android/app/src/debug/AndroidManifest.xml
 INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
@@ -136,5 +253,173 @@ INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter
 		INJECTED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/android/app/src/debug/AndroidManifest.xml:6:5-66
+MERGED from [com.google.firebase:firebase-crashlytics:18.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/10df8e74eb78dba65a82337fe2b6b889/firebase-crashlytics-18.0.0/AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:18.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/10df8e74eb78dba65a82337fe2b6b889/firebase-crashlytics-18.0.0/AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/423e6b8343165910beff1fe0be3523d1/play-services-measurement-api-19.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/423e6b8343165910beff1fe0be3523d1/play-services-measurement-api-19.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/95eb18f2f92a7d2acd7d3b25a5800511/firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/95eb18f2f92a7d2acd7d3b25a5800511/firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/fed5de9c1e4990c9dec1926065904c40/play-services-measurement-impl-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/fed5de9c1e4990c9dec1926065904c40/play-services-measurement-impl-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/6d417180995518df6d68ff5460ef63bf/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/6d417180995518df6d68ff5460ef63bf/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3cd3bba90e304d9bdb274cd3384df72e/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3cd3bba90e304d9bdb274cd3384df72e/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:26:5-67
 	android:name
 		ADDED from /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/android/app/src/debug/AndroidManifest.xml:6:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_crashlytics] /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/build/firebase_crashlytics/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/10df8e74eb78dba65a82337fe2b6b889/firebase-crashlytics-18.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/10df8e74eb78dba65a82337fe2b6b889/firebase-crashlytics-18.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/423e6b8343165910beff1fe0be3523d1/play-services-measurement-api-19.0.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/423e6b8343165910beff1fe0be3523d1/play-services-measurement-api-19.0.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/95eb18f2f92a7d2acd7d3b25a5800511/firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/95eb18f2f92a7d2acd7d3b25a5800511/firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/b1e5608fa8ecf099deeb8aaec999b721/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/b1e5608fa8ecf099deeb8aaec999b721/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-crashlytics:18.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/10df8e74eb78dba65a82337fe2b6b889/firebase-crashlytics-18.0.0/AndroidManifest.xml:17:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/b1e5608fa8ecf099deeb8aaec999b721/jetified-firebase-common-20.0.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/b1e5608fa8ecf099deeb8aaec999b721/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:firebase_crashlytics] /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/build/firebase_crashlytics/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.crashlytics.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_crashlytics] /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/build/firebase_crashlytics/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_crashlytics] /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/build/firebase_crashlytics/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_crashlytics] /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/build/firebase_crashlytics/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-130
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] /Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar
+ADDED from [com.google.firebase:firebase-crashlytics:18.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/10df8e74eb78dba65a82337fe2b6b889/firebase-crashlytics-18.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crashlytics:18.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/10df8e74eb78dba65a82337fe2b6b889/firebase-crashlytics-18.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics:18.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/10df8e74eb78dba65a82337fe2b6b889/firebase-crashlytics-18.0.0/AndroidManifest.xml:19:17-115
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/423e6b8343165910beff1fe0be3523d1/play-services-measurement-api-19.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/95eb18f2f92a7d2acd7d3b25a5800511/firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/95eb18f2f92a7d2acd7d3b25a5800511/firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/fed5de9c1e4990c9dec1926065904c40/play-services-measurement-impl-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/fed5de9c1e4990c9dec1926065904c40/play-services-measurement-impl-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/6d417180995518df6d68ff5460ef63bf/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/6d417180995518df6d68ff5460ef63bf/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3cd3bba90e304d9bdb274cd3384df72e/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3cd3bba90e304d9bdb274cd3384df72e/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ee946e0676edb52070760a94c2d57dbd/jetified-transport-runtime-3.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ee946e0676edb52070760a94c2d57dbd/jetified-transport-runtime-3.0.0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/423e6b8343165910beff1fe0be3523d1/play-services-measurement-api-19.0.0/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/423e6b8343165910beff1fe0be3523d1/play-services-measurement-api-19.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/fed5de9c1e4990c9dec1926065904c40/play-services-measurement-impl-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/fed5de9c1e4990c9dec1926065904c40/play-services-measurement-impl-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/6d417180995518df6d68ff5460ef63bf/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/6d417180995518df6d68ff5460ef63bf/play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/423e6b8343165910beff1fe0be3523d1/play-services-measurement-api-19.0.0/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/423e6b8343165910beff1fe0be3523d1/play-services-measurement-api-19.0.0/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/423e6b8343165910beff1fe0be3523d1/play-services-measurement-api-19.0.0/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/423e6b8343165910beff1fe0be3523d1/play-services-measurement-api-19.0.0/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/95eb18f2f92a7d2acd7d3b25a5800511/firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/95eb18f2f92a7d2acd7d3b25a5800511/firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/95eb18f2f92a7d2acd7d3b25a5800511/firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/b1e5608fa8ecf099deeb8aaec999b721/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/b1e5608fa8ecf099deeb8aaec999b721/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/b1e5608fa8ecf099deeb8aaec999b721/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/b1e5608fa8ecf099deeb8aaec999b721/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/b1e5608fa8ecf099deeb8aaec999b721/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/b1e5608fa8ecf099deeb8aaec999b721/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/fed5de9c1e4990c9dec1926065904c40/play-services-measurement-impl-19.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/fed5de9c1e4990c9dec1926065904c40/play-services-measurement-impl-19.0.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ad543d5412962138d7d4a760228398eb/play-services-measurement-19.0.0/AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/884479f2df92b2f20ec43eedf656c512/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/884479f2df92b2f20ec43eedf656c512/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/884479f2df92b2f20ec43eedf656c512/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3cd3bba90e304d9bdb274cd3384df72e/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ee946e0676edb52070760a94c2d57dbd/jetified-transport-runtime-3.0.0/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ee946e0676edb52070760a94c2d57dbd/jetified-transport-runtime-3.0.0/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3cd3bba90e304d9bdb274cd3384df72e/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3cd3bba90e304d9bdb274cd3384df72e/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3cd3bba90e304d9bdb274cd3384df72e/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3cd3bba90e304d9bdb274cd3384df72e/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/3cd3bba90e304d9bdb274cd3384df72e/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ee946e0676edb52070760a94c2d57dbd/jetified-transport-runtime-3.0.0/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ee946e0676edb52070760a94c2d57dbd/jetified-transport-runtime-3.0.0/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ee946e0676edb52070760a94c2d57dbd/jetified-transport-runtime-3.0.0/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ee946e0676edb52070760a94c2d57dbd/jetified-transport-runtime-3.0.0/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ee946e0676edb52070760a94c2d57dbd/jetified-transport-runtime-3.0.0/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ee946e0676edb52070760a94c2d57dbd/jetified-transport-runtime-3.0.0/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] /Users/henriquemontenegro/.gradle/caches/transforms-2/files-2.1/ee946e0676edb52070760a94c2d57dbd/jetified-transport-runtime-3.0.0/AndroidManifest.xml:33:13-132

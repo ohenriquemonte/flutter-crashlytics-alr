@@ -134,8 +134,9 @@ class _TransactionFormState extends State<TransactionForm> {
     setState(() {
       _sending = true;
     });
+
     final Transaction transaction =
-    await _webClient.save(transactionCreated, password).catchError((e) {
+        await _webClient.save(transactionCreated, password).catchError((e) {
       print('Erro aqui: $e');
       _showFailureMessage(context, message: e.message);
     }, test: (e) => e is HttpException).catchError((e) {
