@@ -92,6 +92,18 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "flare_dart",
+      "rootUri": "file:///Users/henriquemontenegro/Documents/Development/flutterEnv/flutter/.pub-cache/hosted/pub.dartlang.org/flare_dart-2.3.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "flare_flutter",
+      "rootUri": "file:///Users/henriquemontenegro/Documents/Development/flutterEnv/flutter/.pub-cache/hosted/pub.dartlang.org/flare_flutter-2.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///Users/henriquemontenegro/Documents/Development/flutterEnv/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -108,6 +120,12 @@
       "rootUri": "file:///Users/henriquemontenegro/Documents/Development/flutterEnv/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "giffy_dialog",
+      "rootUri": "file:///Users/henriquemontenegro/Documents/Development/flutterEnv/flutter/.pub-cache/hosted/pub.dartlang.org/giffy_dialog-1.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
     },
     {
       "name": "http",
@@ -254,7 +272,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-06-10T20:13:16.377560Z",
+  "generated": "2021-06-10T20:28:06.575381Z",
   "generator": "pub",
   "generatorVersion": "2.12.3"
 }
