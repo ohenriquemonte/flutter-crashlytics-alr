@@ -138,14 +138,14 @@ class _TransactionFormState extends State<TransactionForm> {
 
     final Transaction transaction =
         await _webClient.save(transactionCreated, password).catchError((e) {
-      FirebaseCrashlytics.instance.recordError(e.message, null);
+      FirebaseCrashlytics.instance.recordError(e, null);
       _showFailureMessage(context, message: e.message);
     }, test: (e) => e is HttpException).catchError((e) {
-      FirebaseCrashlytics.instance.recordError(e.message, null);
+      FirebaseCrashlytics.instance.recordError(e, null);
       _showFailureMessage(context,
           message: 'timeout submitting the transaction');
     }, test: (e) => e is TimeoutException).catchError((e) {
-      FirebaseCrashlytics.instance.recordError(e.message, null);
+      FirebaseCrashlytics.instance.recordError(e, null);
       _showFailureMessage(context);
     }).whenComplete(() {
       setState(() {
