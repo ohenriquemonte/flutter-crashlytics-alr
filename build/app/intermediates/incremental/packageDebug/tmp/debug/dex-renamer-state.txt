@@ -1,4 +1,4 @@
-#Thu Jun 10 15:46:52 BRT 2021
+#Sat Jun 12 18:56:23 BRT 2021
 base.0=/Users/henriquemontenegro/Documents/Development/cursos/alr/flutter-crashlytics-alr/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
